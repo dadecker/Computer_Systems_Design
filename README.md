@@ -1,5 +1,5 @@
 # Computer_Systems_Design
-The final project was completed using an Anvyl Spartan 6 FPGA board. The final project outline provided by Dr. Katkoori and the University of South Florida is provided:
+The final project was completed using an Anvyl Spartan 6 FPGA board. The final project was carried out by two other students and myself and the outline provided by Dr. Katkoori and the University of South Florida as seen on this page. The skeleton was provided and the remaining Verilog and PicoBlaze Assembly Code was the responsability of the students.
 
 CDA 4203/4203L Spring 2018
 Computer System Design -- Final Project
