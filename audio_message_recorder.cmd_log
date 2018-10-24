@@ -1,0 +1,538 @@
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc loopback.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf loopback.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+xst -intstyle ise -ifn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.xst" -ofn "/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 audio_message_recorder.ngc audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd audio_message_recorder.ncd audio_message_recorder.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml audio_message_recorder.twx audio_message_recorder.ncd -o audio_message_recorder.twr audio_message_recorder.pcf -ucf audiomessagerecorder.ucf 
+bitgen -intstyle ise -f audio_message_recorder.ut audio_message_recorder.ncd 
+xst -intstyle ise -ifn "C:/Users/David/Desktop/BoundsDeckerJanuaryFinalProject 5_2_2018_0220/audio_message_recorder.xst" -ofn "C:/Users/David/Desktop/BoundsDeckerJanuaryFinalProject 5_2_2018_0220/audio_message_recorder.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc audiomessagerecorder.ucf -p xc6slx45-csg484-3 "audio_message_recorder.ngc" audio_message_recorder.ngd  
+map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o audio_message_recorder_map.ncd audio_message_recorder.ngd audio_message_recorder.pcf 

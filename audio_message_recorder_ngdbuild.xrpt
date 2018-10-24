@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<document OS="nt64" product="ISE" version="14.7">
+
+  <!--The data in this file is primarily intended for consumption by Xilinx tools.
+    The structure and the elements are likely to change over the next few releases.
+    This means code written to parse this file will need to be revisited each subsequent release.-->
+
+  <application stringID="NgdBuild" timeStamp="Sun May 06 12:28:16 2018">
+    <section stringID="User_Env">
+      <table stringID="User_EnvVar">
+        <column stringID="variable"/>
+        <column stringID="value"/>
+        <row stringID="row" value="0">
+          <item stringID="variable" value="Path"/>
+          <item stringID="value" value="C:\Xilinx\14.7\ISE_DS\ISE\\lib\nt64;C:\Xilinx\14.7\ISE_DS\ISE\\bin\nt64;C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64;C:\Xilinx\14.7\ISE_DS\ISE\lib\nt64;C:\Xilinx\14.7\ISE_DS\ISE\..\..\..\DocNav;C:\Xilinx\14.7\ISE_DS\PlanAhead\bin;C:\Xilinx\14.7\ISE_DS\EDK\bin\nt64;C:\Xilinx\14.7\ISE_DS\EDK\lib\nt64;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\powerpc-eabi\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnuwin\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\arm\nt\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_be\bin;C:\Xilinx\14.7\ISE_DS\EDK\gnu\microblaze\linux_toolchain\nt64_le\bin;C:\Xilinx\14.7\ISE_DS\common\bin\nt64;C:\Xilinx\14.7\ISE_DS\common\lib\nt64;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;c:\MinGW\bin;C:\Program Files (x86)\PuTTY\C:\Users\David\AppData\Local\Programs\Python\Python36-32\pythonw.exe &quot;C:\Users\David\AppData\Local\Programs\Python\Python36-32\Lib\idlelib\idle.pyw&quot;;C:\Program Files (x86)\PuTTY\;C:\Program Files\nodejs\;C:\Program Files (x86)\Digilent\AdeptUtilities;xPATHx;C:\Users\David\AppData\Local\Microsoft\WindowsApps;C:\Users\David\AppData\Roaming\npm"/>
+        </row>
+        <row stringID="row" value="1">
+          <item stringID="variable" value="PATHEXT"/>
+          <item stringID="value" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+        </row>
+        <row stringID="row" value="2">
+          <item stringID="variable" value="XILINX"/>
+          <item stringID="value" value="C:\Xilinx\14.7\ISE_DS\ISE\"/>
+        </row>
+        <row stringID="row" value="3">
+          <item stringID="variable" value="XILINXD_LICENSE_FILE"/>
+          <item stringID="value" value="C:\Users\David\Desktop\Xilinx.lic"/>
+        </row>
+        <row stringID="row" value="4">
+          <item stringID="variable" value="XILINX_DSP"/>
+          <item stringID="value" value="C:\Xilinx\14.7\ISE_DS\ISE"/>
+        </row>
+        <row stringID="row" value="5">
+          <item stringID="variable" value="XILINX_EDK"/>
+          <item stringID="value" value="C:\Xilinx\14.7\ISE_DS\EDK"/>
+        </row>
+        <row stringID="row" value="6">
+          <item stringID="variable" value="XILINX_PLANAHEAD"/>
+          <item stringID="value" value="C:\Xilinx\14.7\ISE_DS\PlanAhead"/>
+        </row>
+      </table>
+      <item stringID="User_EnvOs" value="OS Information">
+        <item stringID="User_EnvOsname" value="Microsoft , 64-bit"/>
+        <item stringID="User_EnvOsrelease" value="major release  (build 9200)"/>
+      </item>
+      <item stringID="User_EnvHost" value="snoodles"/>
+      <table stringID="User_EnvCpu">
+        <column stringID="arch"/>
+        <column stringID="speed"/>
+        <row stringID="row" value="0">
+          <item stringID="arch" value="AMD FX(tm)-8350 Eight-Core Processor           "/>
+          <item stringID="speed" value="4019 MHz"/>
+        </row>
+      </table>
+    </section>
+    <task stringID="NGDBUILD_OPTION_SUMMARY">
+      <section stringID="NGDBUILD_OPTION_SUMMARY">
+        <item DEFAULT="None" label="-intstyle" stringID="NGDBUILD_intstyle" value="ise"/>
+        <item DEFAULT="None" label="-dd" stringID="NGDBUILD_output_dir" value="_ngo"/>
+        <item DEFAULT="None" label="-p" stringID="NGDBUILD_partname" value="xc6slx45-csg484-3"/>
+        <item DEFAULT="None" label="-sd" stringID="NGDBUILD_search_path" value="ipcore_dir"/>
+        <item DEFAULT="None" label="-uc" stringID="NGDBUILD_ucf_file" value="audiomessagerecorder.ucf"/>
+      </section>
+    </task>
+    <task stringID="NGDBUILD_REPORT">
+      <section stringID="NGDBUILD_DESIGN_SUMMARY">
+        <item dataType="int" stringID="NGDBUILD_NUM_ERRORS" value="0"/>
+        <item dataType="int" stringID="NGDBUILD_FILTERED_WARNINGS" value="0"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_WARNINGS" value="6"/>
+        <item dataType="int" stringID="NGDBUILD_FILTERED_INFOS" value="0"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_INFOS" value="7"/>
+      </section>
+      <section stringID="NGDBUILD_PRE_UNISIM_SUMMARY">
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFG" value="6"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFGMUX" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFPLL_MCB" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_DCM_SP" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FD" value="106"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDC" value="19"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDCE" value="28"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDE" value="99"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDP" value="26"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDR" value="160"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDRE" value="206"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDS" value="16"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDSE" value="3"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_GND" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IBUF" value="12"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IBUFG" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_INV" value="18"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IOBUF" value="19"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IOBUFDS" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IODRP2" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IODRP2_MCB" value="22"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT1" value="59"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT2" value="106"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT3" value="129"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT4" value="131"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT5" value="121"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT6" value="277"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT6_2" value="78"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MCB" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MULT_AND" value="7"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MUXCY" value="143"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MUXF7" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUF" value="22"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUFT" value="23"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUFTDS" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OSERDES2" value="44"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PLL_ADV" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PULLDOWN" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PULLUP" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAM32M" value="4"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAM64M" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAMB16BWER" value="4"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_SRL16E" value="16"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_VCC" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_XORCY" value="144"/>
+      </section>
+      <section stringID="NGDBUILD_POST_UNISIM_SUMMARY">
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFG" value="6"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFGMUX" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_BUFPLL_MCB" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_DCM_SP" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FD" value="106"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDC" value="19"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDCE" value="28"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDE" value="99"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDP" value="26"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDR" value="160"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDRE" value="206"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDS" value="16"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_FDSE" value="3"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_GND" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IBUF" value="35"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IBUFDS" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IBUFG" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_INV" value="18"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IODRP2" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_IODRP2_MCB" value="22"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT1" value="59"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT2" value="106"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT3" value="129"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT4" value="131"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT5" value="121"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT6" value="277"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_LUT6_2" value="78"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MCB" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MULT_AND" value="7"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MUXCY" value="143"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_MUXF7" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUF" value="22"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUFT" value="42"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OBUFTDS" value="3"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_OSERDES2" value="44"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PLL_ADV" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PULLDOWN" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_PULLUP" value="4"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAM32M" value="4"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAM64M" value="2"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_RAMB16BWER" value="4"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_SRL16E" value="16"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_TS_TIMESPEC" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_VCC" value="1"/>
+        <item dataType="int" stringID="NGDBUILD_NUM_XORCY" value="144"/>
+      </section>
+      <section stringID="NGDBUILD_CORE_SUMMARY">
+        <item COUNT="1" stringID="NGDBUILD_CORE" value="mig_v3_91_ddr2_ddr2_s6, Coregen 13.4"/>
+        <section stringID="NGDBUILD_CORE_GENERATION_SUMMARY">
+          <section stringID="NGDBUILD_CORE_INSTANCES">
+            <scope stringID="NGDBUILD_CORE_INSTANCE" value="clk_wiz_v3_6">
+              <item stringID="NGDBUILD_CORE_INFO" type="clk_wiz_v3_6" value="clk_wiz_v3_6"/>
+              <item clkin1_period="10.000" clkin2_period="10.000" clock_mgr_type="AUTO" component_name="clk_wiz_v3_6" feedback_source="FDBK_AUTO" feedback_type="SINGLE" manual_override="false" num_out_clk="3" primtype_sel="PLL_BASE" stringID="NGDBUILD_CORE_PARAMETERS" use_clk_valid="false" use_dyn_phase_shift="false" use_dyn_reconfig="false" use_freeze="false" use_inclk_stopped="false" use_inclk_switchover="false" use_locked="true" use_max_i_jitter="false" use_min_o_jitter="false" use_phase_alignment="true" use_power_down="false" use_reset="true" use_status="false" value="clk_wiz_v3_6"/>
+            </scope>
+            <scope stringID="NGDBUILD_CORE_INSTANCE" value="clkgen">
+              <item stringID="NGDBUILD_CORE_INFO" type="clk_wiz_v3_6" value="clkgen"/>
+              <item clkin1_period="26.666" clkin2_period="26.666" clock_mgr_type="AUTO" component_name="clkgen" feedback_source="FDBK_ONCHIP" feedback_type="SINGLE" manual_override="false" num_out_clk="1" primtype_sel="DCM_SP" stringID="NGDBUILD_CORE_PARAMETERS" use_clk_valid="false" use_dyn_phase_shift="false" use_dyn_reconfig="false" use_freeze="false" use_inclk_stopped="false" use_inclk_switchover="false" use_locked="false" use_max_i_jitter="false" use_min_o_jitter="false" use_phase_alignment="false" use_power_down="false" use_reset="false" use_status="false" value="clkgen"/>
+            </scope>
+            <scope stringID="NGDBUILD_CORE_INSTANCE" value="ddr2_ddr2_s6">
+              <item stringID="NGDBUILD_CORE_INFO" type="mig_v3_91" value="ddr2_ddr2_s6"/>
+              <item C3_CLASS_ADDR="II" C3_CLASS_DATA="II" C3_CLKFBOUT_MULT_F="2" C3_CLKOUT_DIVIDE="1" C3_CLK_PERIOD="3333" C3_DATA_TERMINATION="25 Ohms" C3_DEBUG_PORT="0" C3_HIGH_TEMP_SR="NORMAL" C3_INPUT_PIN_TERMINATION="CALIB_TERM" C3_MEMORY_DEVICE_WIDTH="16" C3_MEMORY_PART="ede1116axxx-8e" C3_MEM_ADDR_ORDER="ROW_BANK_COLUMN" C3_MEM_INTERFACE_TYPE="DDR2_SDRAM" C3_OUTPUT_DRV="FULL" C3_PORT_CONFIG="Two 32-bit bi-directional and four 32-bit unidirectional ports" C3_PORT_ENABLE="Port0" C3_RTT_NOM="50OHMS" INPUT_CLK_TYPE="Single-Ended" LANGUAGE="Verilog" NO_OF_CONTROLLERS="1" SYNTHESIS_TOOL="Foundation_ISE" component_name="ram_interface" stringID="NGDBUILD_CORE_PARAMETERS" value="ddr2_ddr2_s6"/>
+            </scope>
+            <scope stringID="NGDBUILD_CORE_INSTANCE" value="kcpsm6">
+              <item stringID="NGDBUILD_CORE_INFO" type="kcpsm6_v1_3" value="kcpsm6"/>
+              <item component_name="kcpsm6" stringID="NGDBUILD_CORE_PARAMETERS" value="kcpsm6"/>
+            </scope>
+          </section>
+        </section>
+      </section>
+    </task>
+  </application>
+
+</document>

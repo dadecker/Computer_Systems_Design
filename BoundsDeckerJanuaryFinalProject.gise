@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="BoundsDeckerJanuaryFinalProject.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="audio_message_recorder.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="audio_message_recorder.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="audio_message_recorder.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="audio_message_recorder.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="audio_message_recorder.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="audio_message_recorder.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="audio_message_recorder.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="audio_message_recorder.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="audio_message_recorder.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="audio_message_recorder.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="audio_message_recorder.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="audio_message_recorder.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="audio_message_recorder.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="audio_message_recorder.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="audio_message_recorder.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="audio_message_recorder.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="audio_message_recorder.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="audio_message_recorder.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="audio_message_recorder.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="audio_message_recorder.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="audio_message_recorder.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="audio_message_recorder.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="audio_message_recorder.xst"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="audio_message_recorder_envsettings.html"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="audio_message_recorder_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="audio_message_recorder_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="audio_message_recorder_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="audio_message_recorder_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="audio_message_recorder_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="audio_message_recorder_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="audio_message_recorder_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="audio_message_recorder_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="audio_message_recorder_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="audio_message_recorder_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="audio_message_recorder_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="audio_message_recorder_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="audio_message_recorder_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="audio_message_recorder_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="ipcore_dir/coregen.log"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1525197786" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1525197786">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197786" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="4317192135211951648" xil_pn:start_ts="1525197786">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197787" xil_pn:in_ck="-1439170234946118190" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="4730533390049890232" xil_pn:start_ts="1525197786">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="ipcore_dir/clkgen.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/infrastructure.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/iodrp_controller.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/iodrp_mcb_controller.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/mcb_raw_wrapper.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/mcb_soft_calibration.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/mcb_soft_calibration_top.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/mcb_controller/mcb_ui_top.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/memc_wrapper.v"/>
+      <outfile xil_pn:name="ipcore_dir/ram_interface/user_design/rtl/ram_interface.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197787" xil_pn:in_ck="741837550846644912" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1525197787">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197787" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="7241034247845602210" xil_pn:start_ts="1525197787">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197787" xil_pn:in_ck="741837550846644912" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="8977612015756275229" xil_pn:start_ts="1525197787">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525197787" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-5219577398142994878" xil_pn:start_ts="1525197787">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525624089" xil_pn:in_ck="-5735351038347066525" xil_pn:name="TRANEXT_xstsynthesize_spartan6" xil_pn:prop_ck="5058239370315879175" xil_pn:start_ts="1525624053">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.lso"/>
+      <outfile xil_pn:name="audio_message_recorder.ngc"/>
+      <outfile xil_pn:name="audio_message_recorder.ngr"/>
+      <outfile xil_pn:name="audio_message_recorder.prj"/>
+      <outfile xil_pn:name="audio_message_recorder.stx"/>
+      <outfile xil_pn:name="audio_message_recorder.syr"/>
+      <outfile xil_pn:name="audio_message_recorder.xst"/>
+      <outfile xil_pn:name="audio_message_recorder_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1525624089" xil_pn:in_ck="914490822043159851" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="-5350064502360490675" xil_pn:start_ts="1525624089">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1525624098" xil_pn:in_ck="4770500951715121162" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-8009953053876656359" xil_pn:start_ts="1525624089">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.bld"/>
+      <outfile xil_pn:name="audio_message_recorder.ngd"/>
+      <outfile xil_pn:name="audio_message_recorder_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1525624100" xil_pn:in_ck="-8600207506041677045" xil_pn:name="TRANEXT_map_spartan6" xil_pn:prop_ck="-8453867640889462296" xil_pn:start_ts="1525624098">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.pcf"/>
+      <outfile xil_pn:name="audio_message_recorder_map.map"/>
+      <outfile xil_pn:name="audio_message_recorder_map.mrp"/>
+      <outfile xil_pn:name="audio_message_recorder_map.ncd"/>
+      <outfile xil_pn:name="audio_message_recorder_map.ngm"/>
+      <outfile xil_pn:name="audio_message_recorder_map.xrpt"/>
+      <outfile xil_pn:name="audio_message_recorder_summary.xml"/>
+      <outfile xil_pn:name="audio_message_recorder_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1525198281" xil_pn:in_ck="7182183166253850148" xil_pn:name="TRANEXT_par_spartan6" xil_pn:prop_ck="-3829590541433901613" xil_pn:start_ts="1525198143">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.ncd"/>
+      <outfile xil_pn:name="audio_message_recorder.pad"/>
+      <outfile xil_pn:name="audio_message_recorder.par"/>
+      <outfile xil_pn:name="audio_message_recorder.ptwx"/>
+      <outfile xil_pn:name="audio_message_recorder.unroutes"/>
+      <outfile xil_pn:name="audio_message_recorder.xpi"/>
+      <outfile xil_pn:name="audio_message_recorder_pad.csv"/>
+      <outfile xil_pn:name="audio_message_recorder_pad.txt"/>
+      <outfile xil_pn:name="audio_message_recorder_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1525198338" xil_pn:in_ck="8852984660397011022" xil_pn:name="TRANEXT_bitFile_spartan6" xil_pn:prop_ck="396117104113915555" xil_pn:start_ts="1525198281">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.bgn"/>
+      <outfile xil_pn:name="audio_message_recorder.bit"/>
+      <outfile xil_pn:name="audio_message_recorder.drc"/>
+      <outfile xil_pn:name="audio_message_recorder.ut"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1525623833" xil_pn:in_ck="8852984660396998168" xil_pn:name="TRAN_configureTargetDevice" xil_pn:prop_ck="8482462020707587906" xil_pn:start_ts="1525623831">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForced"/>
+    </transform>
+    <transform xil_pn:end_ts="1525198281" xil_pn:in_ck="3892621915448282759" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1525198248">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="audio_message_recorder.twr"/>
+      <outfile xil_pn:name="audio_message_recorder.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

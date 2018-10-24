@@ -1,0 +1,39 @@
+# pin constraints
+
+NET OSC_100MHz TNM_NET = sys_clk_pin;
+TIMESPEC TS_sys_clk_pin = PERIOD sys_clk_pin 100000 kHz;
+
+NET OSC_100MHz LOC=D11 |	IOSTANDARD = "LVCMOS33"; 
+
+## AUDIO
+NET AUD_DACDAT		LOC=A5	| IOSTANDARD=LVCMOS33; 	#Bank = 0, pin name = IO_L2N_0,	Sch name = AC-PBDAT
+NET AUD_DACLRCK 	LOC=D6	| IOSTANDARD=LVCMOS33; 	#Bank = 0, pin name = IO_L3P_0,	Sch name = AC-PBLRC #DAC Playback sampling rate clock
+NET AUD_ADCDAT		LOC=C6	| IOSTANDARD=LVCMOS33;	#Bank = 0, pin name = IO_L3N_0,	Sch name = AC-RECDAT
+NET AUD_ADCLRCK	LOC=B6	| IOSTANDARD=LVCMOS33;	#Bank = 0, pin name = IO_L4P_0,	Sch name = AC-RECLRC #ADC Recording sampling rate clock
+
+NET AUD_MUTE	LOC=A15	 | IOSTANDARD=LVCMOS33; #Bank = 0, pin name = IO_L62N_VREF_0,	Sch name = AC-MUTE	# mute
+NET AUD_XCK		LOC=A6 	 | IOSTANDARD=LVCMOS33;	#Bank = 0, pin name = IO_L4N_0,	Sch name = AC-MCLK
+NET AUD_BCLK 	LOC=B12 | IOSTANDARD=LVCMOS33;	#Bank = 0, pin name = IO_L36P_GCLK15_0,	Sch name = AC-BCLK
+
+NET AUD_I2C_SDAT LOC=C5 |	PULLUP	|	IOSTANDARD=LVCMOS33;		#Bank = 0, pin name = IO_L1N_VREF_0,	Sch name = SCL
+NET AUD_I2C_SCLK LOC=A4 |	PULLUP	|	IOSTANDARD=LVCMOS33;		#Bank = 0, pin name = IO_L2P_0,			Sch name = SDA
+
+# SWITCHES
+NET SW[0] LOC=P8; 
+NET SW[1] LOC=P5; 
+NET SW[2] LOC=P6; 
+NET SW[3] LOC=R4; 
+
+NET KEY[0] LOC=V5; 
+NET KEY[1] LOC=U4; 
+NET KEY[2] LOC=V3; 
+NET KEY[3] LOC=P4; 
+
+# STATUS LEDS
+NET LED[0] LOC=W3;
+NET LED[1] LOC=Y4;
+NET LED[2] LOC=Y1;
+NET LED[3] LOC=Y3;
+
+NET PLL_LOCKED  LOC=AB4;
+

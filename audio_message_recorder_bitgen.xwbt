@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.ncd
+OUTFILE=/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject/audio_message_recorder.bit
+FAMILY=Spartan6
+PART=xc6slx45-3csg484
+WORKINGDIR=/home/ise/XilinxVMSharedFolder/BoundsDeckerJanuaryFinalProject
+LICENSE=ISE
+USER_INFO=8416_11442_1478797146_620

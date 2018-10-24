@@ -1,0 +1,353 @@
+Release 14.7 par P.20160913 (lin64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+localhost.localdomain::  Tue May 01 18:09:07 2018
+
+par -w -intstyle ise -ol high -mt off audio_message_recorder_map.ncd
+audio_message_recorder.ncd audio_message_recorder.pcf 
+
+
+Constraints file: audio_message_recorder.pcf.
+Loading device for application Rf_Device from file '6slx45.nph' in environment /opt/Xilinx/14.7/ISE_DS/ISE/.
+   "audio_message_recorder" is an NCD, version 3.2, device xc6slx45, package csg484, speed -3
+vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv
+INFO:Security:54 - 'xc6slx45' is a WebPack part.
+WARNING:Security:42 - Your software subscription period has lapsed. Your current version of Xilinx tools will continue
+to function, but you no longer qualify for Xilinx software updates or new releases.
+
+----------------------------------------------------------------------
+
+Initializing temperature to 85.000 Celsius. (default - Range: 0.000 to 85.000 Celsius)
+Initializing voltage to 1.140 Volts. (default - Range: 1.140 to 1.260 Volts)
+
+
+Device speed data version:  "PRODUCTION 1.23 2016-11-22".
+
+
+
+Device Utilization Summary:
+
+Slice Logic Utilization:
+  Number of Slice Registers:                   632 out of  54,576    1%
+    Number used as Flip Flops:                 632
+    Number used as Latches:                      0
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:                0
+  Number of Slice LUTs:                        816 out of  27,288    2%
+    Number used as logic:                      763 out of  27,288    2%
+      Number using O6 output only:             445
+      Number using O5 output only:              54
+      Number using O5 and O6:                  264
+      Number used as ROM:                        0
+    Number used as Memory:                      32 out of   6,408    1%
+      Number used as Dual Port RAM:              8
+        Number using O6 output only:             0
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+      Number used as Single Port RAM:           16
+        Number using O6 output only:             8
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+      Number used as Shift Register:             8
+        Number using O6 output only:             0
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+    Number used exclusively as route-thrus:     21
+      Number with same-slice register load:     16
+      Number with same-slice carry load:         5
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                   294 out of   6,822    4%
+  Number of MUXCYs used:                       176 out of  13,644    1%
+  Number of LUT Flip Flop pairs used:          889
+    Number with an unused Flip Flop:           354 out of     889   39%
+    Number with an unused LUT:                  73 out of     889    8%
+    Number of fully used LUT-FF pairs:         462 out of     889   51%
+    Number of slice register sites lost
+      to control set restrictions:               0 out of  54,576    0%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        83 out of     320   25%
+    Number of LOCed IOBs:                       83 out of      83  100%
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                         4 out of     116    3%
+  Number of RAMB8BWERs:                          0 out of     232    0%
+  Number of BUFIO2/BUFIO2_2CLKs:                 1 out of      32    3%
+    Number used as BUFIO2s:                      1
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             0 out of      32    0%
+  Number of BUFG/BUFGMUXs:                       6 out of      16   37%
+    Number used as BUFGs:                        5
+    Number used as BUFGMUX:                      1
+  Number of DCM/DCM_CLKGENs:                     1 out of       8   12%
+    Number used as DCMs:                         1
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   0 out of     376    0%
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:        24 out of     376    6%
+    Number used as IODELAY2s:                    0
+    Number used as IODRP2s:                      2
+    Number used as IODRP2_MCBs:                 22
+  Number of OLOGIC2/OSERDES2s:                  45 out of     376   11%
+    Number used as OLOGIC2s:                     0
+    Number used as OSERDES2s:                   45
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     256    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         1 out of       4   25%
+  Number of DSP48A1s:                            0 out of      58    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                1 out of       2   50%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            2 out of       4   50%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+
+Overall effort level (-ol):   High 
+Router effort level (-rl):    High 
+
+WARNING:Timing:3402 - The Clock Modifying COMP, clock_generator/dcm_sp_inst, has the attribute CLK_FEEDBACK set to NONE.  No phase
+   relationship exists between the input and output clocks of this Clock Modifying COMP. Data paths between these clock domains must be
+   constrained using FROM/TO constraints.
+Starting initial Timing Analysis.  REAL time: 24 secs 
+Finished initial Timing Analysis.  REAL time: 24 secs 
+
+Starting Router
+
+
+Phase  1  : 6608 unrouted;      REAL time: 27 secs 
+
+Phase  2  : 5100 unrouted;      REAL time: 35 secs 
+
+Phase  3  : 2032 unrouted;      REAL time: 46 secs 
+
+Phase  4  : 2306 unrouted; (Setup:402222, Hold:0, Component Switching Limit:0)     REAL time: 55 secs 
+
+Updating file: audio_message_recorder.ncd with current fully routed design.
+
+Phase  5  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 14 secs 
+
+Phase  6  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 20 secs 
+
+Phase  7  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 31 secs 
+
+Phase  8  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 31 secs 
+
+Phase  9  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 31 secs 
+
+Phase 10  : 0 unrouted; (Setup:413618, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 32 secs 
+Total REAL time to Router completion: 1 mins 32 secs 
+Total CPU time to Router completion: 1 mins 27 secs 
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+Generating "PAR" statistics.
+
+**************************
+Generating Clock Report
+**************************
+
++---------------------+--------------+------+------+------------+-------------+
+|        Clock Net    |   Resource   |Locked|Fanout|Net Skew(ns)|Max Delay(ns)|
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/c3_mcb_drp_ |              |      |      |            |             |
+|                 clk |  BUFGMUX_X2Y2| No   |  141 |  0.099     |  1.312      |
++---------------------+--------------+------+------+------------+-------------+
+|           systemCLK |  BUFGMUX_X2Y3| No   |   16 |  0.039     |  1.272      |
++---------------------+--------------+------+------+------------+-------------+
+|            main_clk |  BUFGMUX_X2Y4| No   |   14 |  0.025     |  1.245      |
++---------------------+--------------+------+------+------------+-------------+
+|          clk_100MHz |         Local|      |   46 |  0.034     |  0.859      |
++---------------------+--------------+------+------+------------+-------------+
+|        AUD_XCK_OBUF |         Local|      |   19 |  0.006     |  0.681      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/c3_sysclk_2 |              |      |      |            |             |
+|                   x |         Local|      |   34 |  0.571     |  1.543      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/c3_sysclk_2 |              |      |      |            |             |
+|               x_180 |         Local|      |   37 |  0.590     |  1.562      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/memc3_wrapp |              |      |      |            |             |
+|er_inst/mcb_ui_top_i |              |      |      |            |             |
+|nst/mcb_raw_wrapper_ |              |      |      |            |             |
+|    inst/ioi_drp_clk |         Local|      |   22 |  0.000     |  0.002      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/memc3_wrapp |              |      |      |            |             |
+|er_inst/mcb_ui_top_i |              |      |      |            |             |
+|nst/mcb_raw_wrapper_ |              |      |      |            |             |
+|inst/idelay_dqs_ioi_ |              |      |      |            |             |
+|                   s |         Local|      |    1 |  0.000     |  0.002      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/memc3_wrapp |              |      |      |            |             |
+|er_inst/mcb_ui_top_i |              |      |      |            |             |
+|nst/mcb_raw_wrapper_ |              |      |      |            |             |
+|inst/idelay_dqs_ioi_ |              |      |      |            |             |
+|                   m |         Local|      |    1 |  0.000     |  0.002      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/memc3_wrapp |              |      |      |            |             |
+|er_inst/mcb_ui_top_i |              |      |      |            |             |
+|nst/mcb_raw_wrapper_ |              |      |      |            |             |
+|inst/idelay_udqs_ioi |              |      |      |            |             |
+|                  _s |         Local|      |    1 |  0.000     |  0.002      |
++---------------------+--------------+------+------+------------+-------------+
+|RAMRapper/u_memory_i |              |      |      |            |             |
+|nterface/memc3_wrapp |              |      |      |            |             |
+|er_inst/mcb_ui_top_i |              |      |      |            |             |
+|nst/mcb_raw_wrapper_ |              |      |      |            |             |
+|inst/idelay_udqs_ioi |              |      |      |            |             |
+|                  _m |         Local|      |    1 |  0.000     |  0.002      |
++---------------------+--------------+------+------+------------+-------------+
+
+* Net Skew is the difference between the minimum and maximum routing
+only delays for the net. Note this is different from Clock Skew which
+is reported in TRCE timing report. Clock Skew is the difference between
+the minimum and maximum path delays which includes logic delays.
+
+* The fanout is the number of component pins not the individual BEL loads,
+for example SLICE loads not FF loads.
+
+Timing Score: 413618 (Setup: 413618, Hold: 0, Component Switching Limit: 0)
+
+WARNING:Par:468 - Your design did not meet timing.  The following are some suggestions to assist you to meet timing in your design.
+
+   Review the timing report using Timing Analyzer (In ISE select "Post-Place &
+   Route Static Timing Report"). Go to the failing constraint(s) and evaluate the failing paths for each constraint.
+
+   Try the Design Goal and Strategies for Timing Performance(In ISE select Project -> Design Goals & Strategies) to ensure the best options
+   are set in the tools for timing closure.
+
+   Use the Xilinx "SmartXplorer" script to try special combinations of
+   options known to produce very good results.
+
+   Visit the Xilinx technical support web at http://support.xilinx.com and go to
+   either "Troubleshoot->Tech Tips->Timing & Constraints" or "
+   TechXclusives->Timing Closure" for tips and suggestions for meeting timing
+   in your design.
+
+Number of Timing Constraints that were not applied: 3
+
+Asterisk (*) preceding a constraint indicates it was not met.
+   This may be due to a setup or hold violation.
+
+----------------------------------------------------------------------------------------------------------
+  Constraint                                |    Check    | Worst Case |  Best Case | Timing |   Timing   
+                                            |             |    Slack   | Achievable | Errors |    Score   
+----------------------------------------------------------------------------------------------------------
+* TS_RAMRapper_u_memory_interface_memc3_inf | SETUP       |    -7.688ns| 102530.768ns|      38|      247138
+  rastructure_inst_clk0_bufg_in =         P | HOLD        |     0.474ns|            |       0|           0
+  ERIOD TIMEGRP         "RAMRapper_u_memory |             |            |            |        |            
+  _interface_memc3_infrastructure_inst_clk0 |             |            |            |        |            
+  _bufg_in"         TS_sys_clk_pin * 0.375  |             |            |            |        |            
+  HIGH 50%                                  |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+* TS_AUD_XCK_OBUF = PERIOD TIMEGRP "AUD_XCK | SETUP       |    -4.085ns|   471.036ns|      66|      166480
+  _OBUF" TS_clk_100MHz * 0.112903226        | HOLD        |     0.407ns|            |       0|           0
+    HIGH 50%                                |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_RAMRapper_u_memory_interface_memc3_inf | MINPERIOD   |     0.167ns|     1.499ns|       0|           0
+  rastructure_inst_clk_2x_180 = PERIOD      |             |            |            |        |            
+      TIMEGRP         "RAMRapper_u_memory_i |             |            |            |        |            
+  nterface_memc3_infrastructure_inst_clk_2x |             |            |            |        |            
+  _180"         TS_sys_clk_pin * 6 PHASE 0. |             |            |            |        |            
+  833333333 ns HIGH 50%                     |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_RAMRapper_u_memory_interface_memc3_inf | MINPERIOD   |     0.167ns|     1.499ns|       0|           0
+  rastructure_inst_clk_2x_0 = PERIOD        |             |            |            |        |            
+    TIMEGRP         "RAMRapper_u_memory_int |             |            |            |        |            
+  erface_memc3_infrastructure_inst_clk_2x_0 |             |            |            |        |            
+  "         TS_sys_clk_pin * 6 HIGH 50%     |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_sys_clk_pin = PERIOD TIMEGRP "sys_clk_ | MINLOWPULSE |     6.666ns|     3.334ns|       0|           0
+  pin" 100 MHz HIGH 50%                     |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_clk_100MHz = PERIOD TIMEGRP "clk_100MH | SETUP       |     1.615ns|     8.384ns|       0|           0
+  z"         TS_RAMRapper_u_memory_interfac | HOLD        |     0.246ns|            |       0|           0
+  e_memc3_infrastructure_inst_clk0_bufg_in  |             |            |            |        |            
+          * 2.66666667 HIGH 50%             |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_RAMRapper_u_memory_interface_memc3_inf | SETUP       |     1.849ns|    11.484ns|       0|           0
+  rastructure_inst_mcb_drp_clk_bufg_in      | HOLD        |     0.396ns|            |       0|           0
+      = PERIOD TIMEGRP         "RAMRapper_u |             |            |            |        |            
+  _memory_interface_memc3_infrastructure_in |             |            |            |        |            
+  st_mcb_drp_clk_bufg_in"         TS_sys_cl |             |            |            |        |            
+  k_pin * 0.75 HIGH 50%                     |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_pll_clkout0 = PERIOD TIMEGRP "pll_clko | SETUP       |    16.136ns|     3.863ns|       0|           0
+  ut0" TS_clk_100MHz * 0.5 HIGH 50%         | HOLD        |     0.385ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+
+
+Derived Constraint Report
+Review Timing Report for more details on the following derived constraints.
+To create a Timing Report, run "trce -v 12 -fastpaths -o design_timing_report design.ncd design.pcf"
+or "Run Timing Analysis" from Timing Analyzer (timingan).
+Derived Constraints for TS_sys_clk_pin
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_sys_clk_pin                 |     10.000ns|      3.334ns|  38449.038ns|            0|          104|            0|        51444|
+| TS_RAMRapper_u_memory_interfac|     13.333ns|     11.484ns|          N/A|            0|            0|        24280|            0|
+| e_memc3_infrastructure_inst_mc|             |             |             |             |             |             |             |
+| b_drp_clk_bufg_in             |             |             |             |             |             |             |             |
+| TS_RAMRapper_u_memory_interfac|      1.667ns|      1.499ns|          N/A|            0|            0|            0|            0|
+| e_memc3_infrastructure_inst_cl|             |             |             |             |             |             |             |
+| k_2x_180                      |             |             |             |             |             |             |             |
+| TS_RAMRapper_u_memory_interfac|      1.667ns|      1.499ns|          N/A|            0|            0|            0|            0|
+| e_memc3_infrastructure_inst_cl|             |             |             |             |             |             |             |
+| k_2x_0                        |             |             |             |             |             |             |             |
+| TS_RAMRapper_u_memory_interfac|     26.667ns| 102530.768ns|    141.817ns|           38|           66|         2045|        25119|
+| e_memc3_infrastructure_inst_cl|             |             |             |             |             |             |             |
+| k0_bufg_in                    |             |             |             |             |             |             |             |
+|  TS_clk_100MHz                |     10.000ns|      8.384ns|     53.181ns|            0|           66|        23356|         1763|
+|   TS_AUD_XCK_OBUF             |     88.571ns|    471.036ns|          N/A|           66|            0|         1362|            0|
+|   TS_pll_clkout0              |     20.000ns|      3.863ns|          N/A|            0|            0|          401|            0|
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+2 constraints not met.
+
+
+Generating Pad Report.
+
+All signals are completely routed.
+
+Total REAL time to PAR completion: 1 mins 38 secs 
+Total CPU time to PAR completion: 1 mins 30 secs 
+
+Peak Memory Usage:  760 MB
+
+Placer: Placement generated during map.
+Routing: Completed - No errors found.
+Timing: Completed - 104 errors found.
+
+Number of error messages: 0
+Number of warning messages: 2
+Number of info messages: 0
+
+Writing design to file audio_message_recorder.ncd
+
+
+
+PAR done!

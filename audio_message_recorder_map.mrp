@@ -1,0 +1,38 @@
+Release 14.7 Map P.20131013 (nt64)
+Xilinx Mapping Report File for Design 'audio_message_recorder'
+
+Design Information
+------------------
+Command Line   : map -intstyle ise -p xc6slx45-csg484-3 -w -logic_opt off -ol
+high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off
+-pr off -lc off -power off -o audio_message_recorder_map.ncd
+audio_message_recorder.ngd audio_message_recorder.pcf 
+Target Device  : xc6slx45
+Target Package : csg484
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Sun May 06 12:28:19 2018
+
+Design Summary
+--------------
+Number of errors   :   1
+Number of warnings :   0
+
+Section 1 - Errors
+------------------
+ERROR:Security:9c - No 'ISE' nor 'WebPack' feature version 2013.10 was available
+for part 'xc6slx45'.
+ERROR:Map:258 - A problem was encountered attempting to get the license for this
+   architecture. 
+
+Section 2 - Warnings
+--------------------
+
+Section 3 - Informational
+-------------------------
+INFO:Security:54 - 'xc6slx45' is a WebPack part.
+INFO:Security:60 - The XILINXD_LICENSE_FILE environment variable is set to
+'C:\Users\David\Desktop\Xilinx.lic'.
+INFO:Security:63 - The LM_LICENSE_FILE environment variable is not set.
+INFO:Security:68 - For more information or for assistance in obtaining 
+INFO:Security:68a - user is David, on host SNOODLES.
